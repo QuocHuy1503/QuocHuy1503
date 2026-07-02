@@ -1,5 +1,9 @@
 # 💫 About Me:
-Java Backend Developer with nearly one year of hands-on experience developing and maintaining backend systems in production environments. Experienced in building RESTful APIs using Spring Boot, working with PostgreSQL, JWT Authentication, RabbitMQ, and Redis, as well as troubleshooting and optimizing backend services. Strong foundation in object-oriented programming, data structures, and backend architecture, with a commitment to writing clean, maintainable code. Seeking an opportunity to continue growing as a Java Backend Engineer while contributing to reliable and scalable software solutions.
+
+Java Backend Developer with nearly one year of professional experience building and maintaining backend systems in production environments. I enjoy designing RESTful APIs, solving backend problems, and improving application performance using Spring Boot, PostgreSQL, RabbitMQ, Redis, and JWT Authentication.
+
+I'm continuously expanding my knowledge of Java, Spring Boot, database optimization, and software architecture while building projects that follow clean code principles and real-world backend practices. My goal is to become a backend engineer capable of developing reliable, scalable, and maintainable systems.
+
 
 
 ## 🌐 Socials:
